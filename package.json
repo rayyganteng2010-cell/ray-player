@@ -1,12 +1,9 @@
 {
-  "name": "ray-player-no-apikey",
+  "name": "ray-player-youtube",
   "version": "1.0.0",
   "private": true,
   "type": "module",
   "scripts": {
-    "dev": "vercel dev",
-    "build": "echo \"no build needed\"",
-    "start": "vercel dev"
-  },
-  "dependencies": {}
+    "dev": "vercel dev"
+  }
 }
