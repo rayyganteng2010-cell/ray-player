@@ -1,9 +1,8 @@
 {
-  "name": "ray-player-youtube",
+  "name": "ray-player-yt",
   "version": "1.0.0",
-  "private": true,
-  "type": "module",
-  "scripts": {
-    "dev": "vercel dev"
+  "main": "api/stream.js",
+  "dependencies": {
+    "ytdl-core": "latest"
   }
 }
